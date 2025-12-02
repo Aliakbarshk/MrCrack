@@ -1,0 +1,8 @@
+{
+  "name": "Mr. Crack",
+  "description": "Personal AI agent for Ali, capable of browser automation, screen analysis, and visual responses.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
